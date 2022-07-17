@@ -1,2 +1,2 @@
-# operatingSystemsLab
- Resources
+# Operating Systems Lab
+ - Shell Programs
